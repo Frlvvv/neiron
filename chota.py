@@ -1,0 +1,1 @@
+ffmpeg-video.mp4-r 3 frames/$image%03d.jpg
